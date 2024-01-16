@@ -2,5 +2,10 @@ Add your students name here
 isha.viragi@gmail.com
 Dhruvkumar.Patel@cdicollege.ca
 hello
+<<<<<<< HEAD
+gursmrnsingh@gmail.com
+=======
 Simranpreet24042002@gmail.com
+>>>>>>> 2f637859e93eb6bf7d539c23036c82e425358ad3
+
 90541094894@algonquincdistudent.com
